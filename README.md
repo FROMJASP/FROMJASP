@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FROMJASP
-- 👀 I’m interested in music production and education 
-- 🌱 I’m currently learning how to enjoy life
-- 💞️ I’m looking to collaborate on music
-- 📫 You can reach me at @FROMJASP on the gram! 
+- 👀 I love to dive deep into the sonic quality of audio 
+- 🌱 Currently trying to understand webdev by building stuff 
+- 📫 You can reach me at @FROMJASP on Twitter/X  
 
 <!---
 FROMJASP/FROMJASP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
