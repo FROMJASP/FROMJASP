@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FROMJASP
-- 👀 I love to dive deep into the sonic quality of audio 
+- 👀 I love to dive deep into the sonic quality of audio and music composition
 - 🌱 Currently trying to understand webdev by building stuff 
 - 📫 You can reach me at @FROMJASP on Twitter/X  
 
